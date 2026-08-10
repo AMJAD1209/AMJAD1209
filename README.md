@@ -56,13 +56,24 @@ Welcome to my GitHub profile! I am passionate about technology, web development,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-themr.vercel.app/api?username=AMJAD1209&show_icons=true&theme=dark" alt="Amjad's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMJAD1209&theme=dark" alt="Amjad's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-themr.vercel.app/api/top-langs/?username=AMJAD1209&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMJAD1209&theme=dark" alt="GitHub Summary" />
 </p>
 
 ---
 
+### 🐍 Snake Animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AMJAD1209/AMJAD1209/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMJAD1209/AMJAD1209/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/AMJAD1209/AMJAD1209/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
 ⭐️ *Thanks for stopping by! Feel free to check out my repositories.*
